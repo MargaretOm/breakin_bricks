@@ -1,0 +1,8 @@
+﻿  MyMain.cpp
+d:\work\марго материалы\5 сем\осисп\lab1\lab1\mymain.cpp(155): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\work\марго материалы\5 сем\осисп\lab1\lab1\mymain.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\work\марго материалы\5 сем\осисп\lab1\lab1\mymain.cpp(157): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\work\марго материалы\5 сем\осисп\lab1\lab1\mymain.cpp(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\work\марго материалы\5 сем\осисп\lab1\lab1\mymain.cpp(287): warning C4101: 'hBmp': unreferenced local variable
+MyMain.obj : error LNK2001: unresolved external symbol __imp_TransparentBlt
+D:\work\Марго материалы\5 сем\ОСИСП\Lab1\x64\Release\Lab1.exe : fatal error LNK1120: 1 unresolved externals

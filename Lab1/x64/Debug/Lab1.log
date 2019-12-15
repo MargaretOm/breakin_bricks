@@ -1,0 +1,22 @@
+﻿  MyMain.cpp
+d:\breakin_bricks\lab1\mymain.cpp(197): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(198): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(199): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(210): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(211): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(212): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(213): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(227): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(228): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(232): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(237): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(238): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(260): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(262): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(268): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(271): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(279): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(282): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\breakin_bricks\lab1\mymain.cpp(495): warning C4101: 'hBmp': unreferenced local variable
+d:\breakin_bricks\lab1\mymain.cpp(527): warning C4715: 'DrawBitmap': not all control paths return a value
+  Lab1.vcxproj -> D:\breakin_bricks\x64\Debug\Lab1.exe
